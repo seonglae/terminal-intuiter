@@ -8,3 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - More General Shortcuts
 - Remove Git Commands
+
+## [1.2.1]
+
+- Change Icon to white
